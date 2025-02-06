@@ -13,9 +13,9 @@ watch some of the projects' *[DEMO VIDEOS!](https://m.youtube.com/playlist?list=
   * image processing
 * [Pedestrian Removing Application](https://github.com/ChiaChunHung/MyDataAnalyticsProjects/blob/main/DataAnalyticProjects/object_removal_project/stanCodoshop.py)
   * image processing
-* [Breakout Game animation](https://github.com/ChiaChunHung/MyDataAnalyticsProjects/blob/main/DataAnalyticProjects/brick_breaker_game_project/extension_breakout.py)
-  * animation
-* [Breakout Game object design](https://github.com/ChiaChunHung/MyDataAnalyticsProjects/blob/main/DataAnalyticProjects/brick_breaker_game_project/extensions_breakoutgraphics.py)
+* Breakout Game
+  * [Breakout Game animation](https://github.com/ChiaChunHung/MyDataAnalyticsProjects/blob/main/DataAnalyticProjects/brick_breaker_game_project/extension_breakout.py)
+  * [Breakout Game object design](https://github.com/ChiaChunHung/MyDataAnalyticsProjects/blob/main/DataAnalyticProjects/brick_breaker_game_project/extensions_breakoutgraphics.py)
   * game designing  
 * [Name Popularity Searching System Back-End Engineer](https://github.com/ChiaChunHung/MyDataAnalyticsProjects/blob/main/DataAnalyticProjects/popular_baby_names_project/babynames.py)
   * data structure
